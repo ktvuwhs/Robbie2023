@@ -1,2 +1,2 @@
-# Robbie2023
-Sandbox for Robbie 2023 for practice
+# Robbie
+alternate programming paradigm for 8521's 2023 robot Robbie
